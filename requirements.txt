@@ -1,0 +1,13 @@
+# Core
+watchdog>=4.0.0
+docling>=2.0.0
+
+# Embeddings
+openai>=1.30.0
+tiktoken>=0.7.0
+
+# Vector DB
+qdrant-client>=1.9.0
+
+# Utilities
+python-dotenv>=1.0.0
